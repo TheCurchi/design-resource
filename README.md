@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< Updated upstream
 芜湖起飞了
 我真的痛了 我痛恨github
+=======
+ 芜湖起飞了
+我真的痛了 我痛恨github
+我吐了
+>>>>>>> Stashed changes
 =======
 # design-resource
 
